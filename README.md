@@ -7,6 +7,8 @@ https://youtube.com/playlist?list=PL7zofphMtPxEhvbBy1Yx_L08jQqJA6G-P&feature=sha
 
 <b><h3>Lesson 1 - Bits, Qubits & Quantum Computing</h3></b>
 
+![image]()
+
 <b><h3>Lesson Content</h3></b>
 
 Youtube Link
@@ -20,6 +22,8 @@ Assignment
 Additional Resources
 
 <b><h3>Lesson 2</h3></b>
+
+![image]()
 
 <b><h3>Lesson Content</h3></b>
 
@@ -35,6 +39,8 @@ Additional Resources
 
 <b><h3>Lesson 3</h3></b>
 
+![image]()
+
 <b><h3>Lesson Content</h3></b>
 
 Youtube Link
@@ -49,6 +55,8 @@ Additional Resources
 
 <b><h3>Lesson 4</h3></b>
 
+![image]()
+
 <b><h3>Lesson Content</h3></b>
 
 Youtube Link
@@ -62,6 +70,8 @@ Assignment
 Additional Resources
 
 <b><h3>Lesson 5</h3></b>
+
+![image]()
 
 <b><h3>Lesson Content</h3></b>
 
