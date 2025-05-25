@@ -7,7 +7,7 @@ https://youtube.com/playlist?list=PL7zofphMtPxEhvbBy1Yx_L08jQqJA6G-P&feature=sha
 
 <b><h3>Lesson 1 - Bits, Qubits & Quantum Computing</h3></b>
 
-![image]()
+![image](https://github.com/NatashiaKaurRaina/Introduction-to-Quantum-Computing-Course-by-Natashia-Kaur-Raina/blob/main/Quantum%20Course%20Image%20(1).png)
 
 <b><h3>Lesson Content</h3></b>
 
