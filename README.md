@@ -65,3 +65,7 @@ Assignment
 
 Additional Resources
 
+
+<b><h2>Other Resource Repositories</b></h2>
+
+https://github.com/NatashiaKaurRaina/Ultimate-Quantum-Resources
