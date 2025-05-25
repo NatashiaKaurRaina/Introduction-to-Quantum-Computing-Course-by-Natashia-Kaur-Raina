@@ -85,6 +85,8 @@ Assignment
 
 Additional Resources
 
+<b><h3>Other Lessons</h3></b>
+
 
 <b><h2>Other Resource Repositories</b></h2>
 
