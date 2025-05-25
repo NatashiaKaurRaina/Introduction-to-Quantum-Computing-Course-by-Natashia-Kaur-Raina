@@ -5,7 +5,7 @@ This repository consists all the slide, jupyter notebooks, assignments and proje
 
 https://youtube.com/playlist?list=PL7zofphMtPxEhvbBy1Yx_L08jQqJA6G-P&feature=shared
 
-<b><h3>Lesson 1</h3></b>
+<b><h3>Lesson 1 - Bits, Qubits & Quantum Computing</h3></b>
 
 Youtube Link
 
