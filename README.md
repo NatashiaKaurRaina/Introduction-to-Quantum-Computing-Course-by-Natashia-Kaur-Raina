@@ -1,7 +1,9 @@
 # Introduction to Quantum Computing Course by Natashia Kaur Raina
 This repository consists all the slide, jupyter notebooks, assignments and projects covered in my Introduction to Quantum Computing course on Youtube.
 
-<b><h2>My Course Youtube Link:</b></h2>
+<b><h2>My Course Playlist:</b></h2>
+
+https://youtube.com/playlist?list=PL7zofphMtPxEhvbBy1Yx_L08jQqJA6G-P&feature=shared
 
 <b><h3>Lesson 1</h3></b>
 
