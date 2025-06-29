@@ -11,15 +11,11 @@ https://youtube.com/playlist?list=PL7zofphMtPxEhvbBy1Yx_L08jQqJA6G-P&feature=sha
 
 <b><h3>Lesson Content</h3></b>
 
-Youtube Link
+Youtube Link: https://www.youtube.com/watch?v=gX4BYPjgBHg
 
-Slides
+Slides: https://drive.google.com/file/d/13Wm7fhRi18g9uRgAZun3jFwnkBPkRClI/view
 
-Jupyter Notebook
-
-Assignment
-
-Additional Resources
+Additional Resources: 
 
 <b><h3>Lesson 2</h3></b>
 
